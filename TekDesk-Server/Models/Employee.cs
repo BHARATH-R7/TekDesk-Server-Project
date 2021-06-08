@@ -12,5 +12,7 @@ namespace TekDesk_Server.Models
         public int EmployeeID { get; set; }
         public string username { get; set; }
         public string password { get; set; }
+
+        
     }
 }
