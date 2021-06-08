@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imbha\\source\\repos\\TekDesk-Server\\TekDesk-Server\\TekDesk-Server.csproj": {}
+    "C:\\Users\\imbha\\Desktop\\TekDesk-Server\\TekDesk-Server\\TekDesk-Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imbha\\source\\repos\\TekDesk-Server\\TekDesk-Server\\TekDesk-Server.csproj": {
+    "C:\\Users\\imbha\\Desktop\\TekDesk-Server\\TekDesk-Server\\TekDesk-Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imbha\\source\\repos\\TekDesk-Server\\TekDesk-Server\\TekDesk-Server.csproj",
+        "projectUniqueName": "C:\\Users\\imbha\\Desktop\\TekDesk-Server\\TekDesk-Server\\TekDesk-Server.csproj",
         "projectName": "TekDesk-Server",
-        "projectPath": "C:\\Users\\imbha\\source\\repos\\TekDesk-Server\\TekDesk-Server\\TekDesk-Server.csproj",
+        "projectPath": "C:\\Users\\imbha\\Desktop\\TekDesk-Server\\TekDesk-Server\\TekDesk-Server.csproj",
         "packagesPath": "C:\\Users\\imbha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imbha\\source\\repos\\TekDesk-Server\\TekDesk-Server\\obj\\",
+        "outputPath": "C:\\Users\\imbha\\Desktop\\TekDesk-Server\\TekDesk-Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imbha\\AppData\\Roaming\\NuGet\\NuGet.Config",
