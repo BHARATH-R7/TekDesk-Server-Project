@@ -1,7 +1,9 @@
 using System;
+using System.Diagnostics.CodeAnalysis;
 
 namespace TekDesk_Server
 {
+    [ExcludeFromCodeCoverage]
     public class WeatherForecast
     {
         public DateTime Date { get; set; }

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.IO;
 using System.Linq;
 using System.Net.Http.Headers;
@@ -10,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace TekDesk_Server.Controllers
 {
+    [ExcludeFromCodeCoverage]
     [EnableCors("TCAPolicy")]
     [Route("api/[controller]")]
     [ApiController]

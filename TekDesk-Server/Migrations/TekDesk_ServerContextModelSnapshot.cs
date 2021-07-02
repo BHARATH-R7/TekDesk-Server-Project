@@ -3,10 +3,12 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+using System.Diagnostics.CodeAnalysis;
 using TekDesk_Server.Data;
 
 namespace TekDesk_Server.Migrations
 {
+    [ExcludeFromCodeCoverage]
     [DbContext(typeof(TekDesk_ServerContext))]
     partial class TekDesk_ServerContextModelSnapshot : ModelSnapshot
     {

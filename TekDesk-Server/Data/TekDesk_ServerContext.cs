@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
@@ -7,6 +8,7 @@ using TekDesk_Server.Models;
 
 namespace TekDesk_Server.Data
 {
+    [ExcludeFromCodeCoverage]
     public class TekDesk_ServerContext : DbContext
     {
         public TekDesk_ServerContext (DbContextOptions<TekDesk_ServerContext> options)

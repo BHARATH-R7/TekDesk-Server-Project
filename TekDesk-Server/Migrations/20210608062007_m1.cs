@@ -1,7 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
+using System.Diagnostics.CodeAnalysis;
 
 namespace TekDesk_Server.Migrations
 {
+    [ExcludeFromCodeCoverage]
     public partial class m1 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)

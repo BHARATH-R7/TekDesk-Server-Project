@@ -1,0 +1,1 @@
+C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server.Acceptance.Tests\.sonarqube\out\3
