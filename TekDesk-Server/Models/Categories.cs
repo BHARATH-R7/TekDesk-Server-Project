@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TekDesk_Server.Models
 {
-    [ExcludeFromCodeCoverage]
+    //[ExcludeFromCodeCoverage]
     public class Categories
     {
         [Key]
