@@ -278,7 +278,6 @@ C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\bin\Debug\netcoreapp3.1\run
 C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\obj\Debug\netcoreapp3.1\TekDesk-Server.csprojAssemblyReference.cache
 C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\obj\Debug\netcoreapp3.1\TekDesk-Server.AssemblyInfoInputs.cache
 C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\obj\Debug\netcoreapp3.1\TekDesk-Server.AssemblyInfo.cs
 C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\obj\Debug\netcoreapp3.1\TekDesk-Server.csproj.CoreCompileInputs.cache
@@ -293,3 +292,5 @@ C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\obj\Debug\netcoreapp3.1\Tek
 C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\obj\Debug\netcoreapp3.1\TekDesk-Server.pdb
 C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\obj\Debug\netcoreapp3.1\TekDesk-Server.genruntimeconfig.cache
 C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\bin\Debug\netcoreapp3.1\aws-beanstalk-tools-defaults.json
+C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\obj\Debug\netcoreapp3.1\TekDesk-Server.csproj.AssemblyReference.cache
+C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server\obj\Debug\netcoreapp3.1\TekDesk-Server.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TekDesk_Server.Acceptance.Tests
+build_property.ProjectDir = C:\Users\imbha\Desktop\TekDesk-Server\TekDesk-Server.Acceptance.Tests\
